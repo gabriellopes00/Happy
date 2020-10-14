@@ -11,10 +11,10 @@
 #page-landing .content-wrapper{
     position: relative;
 
-    width: 100%;
+    width: 90%;
     max-width:  1100px;
 
-    height: 90%;
+    height: 85%;
     max-height: 680px;
 
     display: flex;
@@ -22,7 +22,8 @@
     flex-direction: column;
     justify-content: space-between;
 
-    background: url('../../Images/landing.svg') no-repeat 80% center;
+    background: url('../../Images/landing.svg') no-repeat 73% center;
+    background-size: 450px;
 }
 
 #page-landing .content-wrapper main h1{

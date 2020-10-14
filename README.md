@@ -3,12 +3,39 @@ An application that connect people with orphanages.
 
 ## Building
 
+### Layout ✒
+WEB 🌐 [LAYOUT WEB](https://nodejs.org) <br>
+MOBILE 📱 [LAYOUT MOBILE](https://nodejs.org)
+
 You'll need [Node.js](https://nodejs.org) and  [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
 
 ```bash
     git clone https://github.com/gabriellopes00/Happy.git
-    $ cd Happy
-    $ yarn start
+```
+
+API Node.JS 🚀
+
+```ssh
+cd back-end
+yarn install
+yarn typeorm migration:run
+yarn dev
+```
+
+Web Front-end 🌐
+
+```ssh
+cd web
+yarn install
+yarn start
+```
+
+Mobile 📱
+
+```ssh
+cd mobile
+npm install
+npm run start
 ```
 
 ## Contact

@@ -9,7 +9,7 @@
         import '../styles/pages/landing.css';
         import logoImg from '../Images/Logo.svg';
 
-//Page function
+//Landing page
 function Landing() {
     return (
         <div id="page-landing">
