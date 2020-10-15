@@ -15,7 +15,7 @@ This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀
 In this application people register orphanages, with the information from the same ... and the best thing is that the orphanages have their position on a map, in which the user can navigate, and by clicking on it, the user has access to the information of the orphanage.
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
-To build this app, we use:
+***To build this app, we use:***
 <div class="row">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
@@ -24,13 +24,17 @@ To build this app, we use:
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
-## Building
+## Building 🛠
 
 ### Layout ✒
 WEB 🌐 [LAYOUT WEB](https://nodejs.org) <br>
 MOBILE 📱 [LAYOUT MOBILE](https://nodejs.org)
 
 You'll need [Node.js](https://nodejs.org) and  [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
+This is the front-end of the Happy app, to use all the functionalities, you will need to clone the [Happy-API](https://github.com/gabriellopes00/Happy-API). Because the database, server, images.... are in this api. This API is running on: 
+``` http://localhost:3333 ```
+And the front-end is running on: 
+``` http://localhost:3333 ```
 
 ```bash
     git clone https://github.com/gabriellopes00/Happy.git
