@@ -49,7 +49,7 @@ And the front-end is running on
 #### Clone
 
 ```bash
-    git clone https://github.com/gabriellopes00/Happy.git
+git clone https://github.com/gabriellopes00/Happy.git
 ```
 #### Web Front-end 🌐
 
