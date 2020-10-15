@@ -15,13 +15,9 @@ This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀
 In this application people register orphanages, with the information from the same ... and the best thing is that the orphanages have their position on a map, in which the user can navigate, and by clicking on it, the user has access to the information of the orphanage.
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
-<div class="row">
-  <p>
-    <img width="251" height="586" src=".\github_images\3.jpg">
-    <img width="251" height="586" src=".\github_images\4.jpg">
-    <img width="251" height="586" src=".\github_images\5.jpg">    
-  </p>
-</div>
+<img width="251" height="586" src=".\github_images\3.jpg">
+<img width="251" height="586" src=".\github_images\4.jpg">
+<img width="251" height="586" src=".\github_images\5.jpg">    
 
 ***To build this app, we use:***
 <div class="row">
