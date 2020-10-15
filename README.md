@@ -1,5 +1,7 @@
 # Happy 😊
-An application that connect people with orphanages.
+<p align="center">
+  <strong>An application that connect people with orphanages.</strong>
+</p>
 
 <p align="center">
     <img width="700" height="338" src="./github_images/1.jpg">
@@ -7,6 +9,20 @@ An application that connect people with orphanages.
 <p align="center">
     <img width="700" height="338" src="./github_images/2.jpg">
 </p>
+
+## About
+This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀](https://rocketseat.com.br/)).
+In this application people register orphanages, with the information from the same ... and the best thing is that the orphanages have their position on a map, in which the user can navigate, and by clicking on it, the user has access to the information of the orphanage.
+This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
+
+To build this app, we use:
+<div class="row">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="	https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
+</div>
 
 ## Building
 
