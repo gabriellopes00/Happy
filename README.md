@@ -1,7 +1,7 @@
 # Happy 😊
-<p align="center">
+<h4 align="center">
   <strong>An application that connect people with orphanages.</strong>
-</p>
+</h4>
 
 <p align="center">
     <img width="700" height="338" src="./github_images/1.jpg">
@@ -16,11 +16,12 @@ In this application people register orphanages, with the information from the sa
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
 <p align="start">
-  <img width="586" height="251" src="./github_images/3.jpg">
+  <img width="251" height="586" src="./github_images/3.jpg">
 </p>
 <p align="end">
-  <img width="586" height="251" src="./github_images/4.jpg">
+  <img width="251" height="586" src="./github_images/4.jpg">
 </p>
+
 ***To build this app, we use:***
 <div class="row">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
@@ -47,7 +48,7 @@ And the front-end is running on:
 ```bash
     git clone https://github.com/gabriellopes00/Happy.git
 ```
-Web Front-end 🌐
+#### Web Front-end 🌐
 
 ```ssh
 cd web
