@@ -19,7 +19,6 @@ This application was developed to celebrate children's day, thinking of those wh
   <p>
     <img width="251" height="586" src="./github_images/3.jpg">
     <img width="251" height="586" src="./github_images/4.jpg">    
-    <img width="251" height="586" src="./github_images/5.jpg">
   </p>
 </div>
 
