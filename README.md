@@ -37,8 +37,7 @@ This application was developed to celebrate children's day, thinking of those wh
 ## Building 🛠
 
 ### Layout ✒
-WEB 🌐 [LAYOUT WEB](https://nodejs.org) <br>
-MOBILE 📱 [LAYOUT MOBILE](https://nodejs.org)
+WEB 🌐 [LAYOUT WEB](https://www.figma.com/file/UDI5ggRsYaymyDHGpGCx9V/Happy-Web-(Copy))
 
 You'll need [Node.js](https://nodejs.org) and  [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
 This is the front-end of the Happy app, to use all the functionalities, you will need to clone the [Happy-API](https://github.com/gabriellopes00/Happy-API). Because the database, server, images.... are in this API. Happy-API is running on
