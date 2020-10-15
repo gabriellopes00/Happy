@@ -1,6 +1,13 @@
 # Happy 😊
 An application that connect people with orphanages.
 
+<p align="center">
+    <img width="700" height="338" src="./github_images/1.jpg">
+</p>
+<p align="center">
+    <img width="700" height="338" src="./github_images/2.jpg">
+</p>
+
 ## Building
 
 ### Layout ✒

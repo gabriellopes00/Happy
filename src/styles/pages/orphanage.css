@@ -7,7 +7,7 @@
     position: fixed;
     height: 100%;
     padding: 32px 24px;
-    background: linear-gradient(329.54deg, #15B6D6 0%, #15D6D6 100%);
+    background: linear-gradient(329.54deg, #176b7c 0%, #0e8f8f 100%);
 
     display: flex;
     flex-direction: column;
@@ -40,7 +40,9 @@
 
 #page-orphanage aside footer a:hover,
 #page-orphanage aside footer button:hover {
-    background: #17D6EB;
+    background-color: rgba(0, 0, 0, .1);
+    transform: scale(1.1);
+    transition: .2s;
 }
 
 #page-orphanage main {
@@ -126,7 +128,7 @@
 
 .orphanage-details .orphanage-details-content .map-container footer a {
     line-height: 24px;
-    color: #0089A5;
+    color: #146572;
     text-decoration: none;
 }
 
