@@ -1,5 +1,4 @@
-# Happy 
-<img width="20" height="20" src="./src/images/map-marker.svg" />
+# Happy 😃
 <h4 align="center">
   <strong>An application that connect people with orphanages.</strong>
 </h4>
@@ -17,10 +16,10 @@ In this application people register orphanages, with the information from the sa
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
 <div class="row">
-  <p align="start">
+  <p>
     <img width="251" height="586" src="./github_images/3.jpg">
   </p>
-  <p align="end">
+  <p>
     <img width="251" height="586" src="./github_images/4.jpg">
   </p>
 </div>
@@ -60,11 +59,11 @@ yarn start
 ```
 
 ## Possible Upgrades 🔧
-- Strengthen application validations
-- Improve the design and animations
-- Create a user system
-- Update Orphanages Information function
-- Create contact via WhatApp or Email
+[] Strengthen application validations
+[] Improve the design and animations
+[] Create a user system
+[] Update Orphanages Information function
+[] Create contact via WhatApp or Email
 
 ## Contact 📱
 
