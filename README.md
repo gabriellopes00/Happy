@@ -12,7 +12,7 @@
 
 ## About 📚
 This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀](https://rocketseat.com.br/)).
-In this application people register orphanages, with the information from the same ... and the best thing is that the orphanages have their position on a map, in which the user can navigate, and by clicking on it, the user has access to the information of the orphanage.
+In this application people register orphanages, with the information from the same... and the best thing is that the orphanages have their position on a map, in which the user can navigate, and by clicking on it, the user has access to the information of the orphanage. ***I made my own modifications to this application***.
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
 <div class="row">
@@ -30,6 +30,8 @@ This application was developed to celebrate children's day, thinking of those wh
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 ## Building 🛠
