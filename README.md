@@ -16,7 +16,7 @@ In this application people register orphanages, with the information from the sa
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
 <div class="row">
-  <p align="center">
+  <p>
     <img width="251" height="586" src="./github_images/3.jpg">
     <img width="251" height="586" src="./github_images/4.jpg">    
     <img width="251" height="586" src="./github_images/5.jpg">
