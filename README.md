@@ -1,4 +1,5 @@
-# Happy 😊
+# Happy 
+<img width="20" height="20" src="./src/images/map-marker.svg" />
 <h4 align="center">
   <strong>An application that connect people with orphanages.</strong>
 </h4>
@@ -10,17 +11,19 @@
     <img width="700" height="338" src="./github_images/2.jpg">
 </p>
 
-## About
+## About 📚
 This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀](https://rocketseat.com.br/)).
 In this application people register orphanages, with the information from the same ... and the best thing is that the orphanages have their position on a map, in which the user can navigate, and by clicking on it, the user has access to the information of the orphanage.
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
-<p align="start">
-  <img width="251" height="586" src="./github_images/3.jpg">
-</p>
-<p align="end">
-  <img width="251" height="586" src="./github_images/4.jpg">
-</p>
+<div class="row">
+  <p align="start">
+    <img width="251" height="586" src="./github_images/3.jpg">
+  </p>
+  <p align="end">
+    <img width="251" height="586" src="./github_images/4.jpg">
+  </p>
+</div>
 
 ***To build this app, we use:***
 <div class="row">
@@ -37,11 +40,11 @@ This application was developed to celebrate children's day, thinking of those wh
 WEB 🌐 [LAYOUT WEB](https://nodejs.org) <br>
 MOBILE 📱 [LAYOUT MOBILE](https://nodejs.org)
 
-You'll need [Node.js](https://nodejs.org) and  [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
-This is the front-end of the Happy app, to use all the functionalities, you will need to clone the [Happy-API](https://github.com/gabriellopes00/Happy-API). Because the database, server, images.... are in this API. Happy-API is running on: 
+You'll need [Node.js](https://nodejs.org) and  [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
+This is the front-end of the Happy app, to use all the functionalities, you will need to clone the [Happy-API](https://github.com/gabriellopes00/Happy-API). Because the database, server, images.... are in this API. Happy-API is running on
 ``` http://localhost:3333 ```
-And the front-end is running on: 
-``` http://localhost:3333 ``` <br>
+And the front-end is running on
+``` http://localhost:3000 ``` <br>
 
 #### Clone
 
@@ -56,7 +59,14 @@ yarn install
 yarn start
 ```
 
-## Contact
+## Possible Upgrades 🔧
+- Strengthen application validations
+- Improve the design and animations
+- Create a user system
+- Update Orphanages Information function
+- Create contact via WhatApp or Email
+
+## Contact 📱
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabriellopes00)](https://github.com/gabriellopes00)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lopes-6625631b0/)](https://www.linkedin.com/in/gabriel-lopes-6625631b0/)
