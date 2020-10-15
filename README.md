@@ -15,6 +15,12 @@ This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀
 In this application people register orphanages, with the information from the same ... and the best thing is that the orphanages have their position on a map, in which the user can navigate, and by clicking on it, the user has access to the information of the orphanage.
 This application was developed to celebrate children's day, thinking of those who live in orphanages and are happy with a simple visit.
 
+<p align="start">
+  <img width="700" height="338" src="./github_images/3.jpg">
+</p>
+<p align="end">
+  <img width="700" height="338" src="./github_images/4.jpg">
+</p>
 ***To build this app, we use:***
 <div class="row">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
@@ -31,38 +37,22 @@ WEB 🌐 [LAYOUT WEB](https://nodejs.org) <br>
 MOBILE 📱 [LAYOUT MOBILE](https://nodejs.org)
 
 You'll need [Node.js](https://nodejs.org) and  [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
-This is the front-end of the Happy app, to use all the functionalities, you will need to clone the [Happy-API](https://github.com/gabriellopes00/Happy-API). Because the database, server, images.... are in this api. This API is running on: 
+This is the front-end of the Happy app, to use all the functionalities, you will need to clone the [Happy-API](https://github.com/gabriellopes00/Happy-API). Because the database, server, images.... are in this API. Happy-API is running on: 
 ``` http://localhost:3333 ```
 And the front-end is running on: 
-``` http://localhost:3333 ```
+``` http://localhost:3333 ``` <br>
+
+#### Clone
 
 ```bash
     git clone https://github.com/gabriellopes00/Happy.git
 ```
-
-API Node.JS 🚀
-
-```ssh
-cd back-end
-yarn install
-yarn typeorm migration:run
-yarn dev
-```
-
 Web Front-end 🌐
 
 ```ssh
 cd web
 yarn install
 yarn start
-```
-
-Mobile 📱
-
-```ssh
-cd mobile
-npm install
-npm run start
 ```
 
 ## Contact
