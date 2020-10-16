@@ -4,10 +4,10 @@
 </h4>
 
 <p align="center">
-    <img width="700" height="338" src="./github_images/1.jpg">
+    <img width="700" height="338" src="./.github/1.jpg">
 </p>
 <p align="center">
-    <img width="700" height="338" src="./github_images/2.jpg">
+    <img width="700" height="338" src="./.github/2.jpg">
 </p>
 
 ## About 📚
@@ -17,9 +17,9 @@ This application was developed to celebrate children's day, thinking of those wh
 
 <div class="row">
   <p align="center">
-    <img width="251" height="586" src="./github_images/3.jpg">
-    <img width="251" height="586" src="./github_images/4.jpg">    
-    <img width="251" height="586" src="./github_images/5.jpg">
+    <img width="251" height="586" src="./.github/3.jpg">
+    <img width="251" height="586" src="./.github/4.jpg">    
+    <img width="251" height="586" src="./.github/5.jpg">
   </p>
 </div>
 
