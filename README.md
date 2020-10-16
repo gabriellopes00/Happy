@@ -38,6 +38,7 @@ This application was developed to celebrate children's day, thinking of those wh
 
 ### Layout ✒
 WEB 🌐 [LAYOUT WEB](https://www.figma.com/file/UDI5ggRsYaymyDHGpGCx9V/Happy-Web-(Copy))
+MOBILE 🌐 [LAYOUT MOBILE](https://www.figma.com/file/KmihvBO6eW3jftLK3WaF5a/Happy-Mobile-(Copy)?node-id=0%3A1)
 
 ### Get Started ⚙
 You'll need [Node.js](https://nodejs.org) and  [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
