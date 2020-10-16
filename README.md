@@ -37,7 +37,7 @@ This application was developed to celebrate children's day, thinking of those wh
 ## Building 🛠
 
 ### Layout ✒
-WEB 🌐 [LAYOUT WEB](https://www.figma.com/file/UDI5ggRsYaymyDHGpGCx9V/Happy-Web-(Copy))
+WEB 🌐 [LAYOUT WEB](https://www.figma.com/file/UDI5ggRsYaymyDHGpGCx9V/Happy-Web-(Copy)) <br>
 MOBILE 🌐 [LAYOUT MOBILE](https://www.figma.com/file/KmihvBO6eW3jftLK3WaF5a/Happy-Mobile-(Copy)?node-id=0%3A1)
 
 ### Get Started ⚙
